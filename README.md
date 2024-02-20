@@ -2,9 +2,9 @@
 <h1 align="center">Hi, 👋 I'm Sarang Raj Tripathi</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="left">Connect with me:</h3><a href="https://linkedin.com/in/sarang-tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarang-tripathi" height="30" width="40" /></a><br><br>
+<h3 align="left">Connect with me:</h3><a href="https://linkedin.com/in/sarang-tripathi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarang-tripathi" height="30" width="40" /></a><br><br>
 
-📫 How to reach me **sarangtripathi18@gmail.com**
+📫 How to reach me     **sarangtripathi18@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
