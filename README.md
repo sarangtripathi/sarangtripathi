@@ -1,6 +1,6 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi, 👋 I'm Sarang Raj Tripathi</h1>
-<h3 align="center">` FullStack Developer `</h3>
+<h3 align="center">` A FullStack Developer `</h3>
 
 
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
